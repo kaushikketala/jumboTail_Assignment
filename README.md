@@ -104,3 +104,8 @@ K = 2 → larger mistakes
 K > 2 → expensive and noisy
 
 Most search bars use K = 1 or 2
+
+
+
+
+The similar thing can be extended to more data because its of time O(N) this actually helps a lot and also with the data retrival fastly.
