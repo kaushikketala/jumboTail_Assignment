@@ -1,5 +1,9 @@
 # jumboTail_Assignment
 Search bar Architechture
+
+int the above assignment we here simulated with limited amount of data but his actually works with large amount of data neatly
+
+
 -------------------------------------------------------------------------------------------------------------------
 
 final 1 :
