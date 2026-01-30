@@ -1,7 +1,7 @@
 # jumboTail_Assignment
 Search bar Architechture
 
-int the above assignment we here simulated with limited amount of data but his actually works with large amount of data neatly
+int the above assignment we here simulated with limited amount of data but his actually works with large amount of data neatly i mean by using the api's . 
 
 my llm chat link : https://chatgpt.com/share/697cf0e2-a8a8-8010-82c4-7a784a6cb5dd
 -------------------------------------------------------------------------------------------------------------------
