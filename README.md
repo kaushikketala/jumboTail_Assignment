@@ -1,10 +1,10 @@
 # jumboTail_Assignment
 Search bar Architechture
-
+-------------------------------------------------------------------------------------------------------------------
 
 final 1 :
 this include a search bar idea how to search a given string with in the given set of strings or the large amount of data
-
+--------------------------------------------------------------------------------------------------------------------
 Why Trie for a Search Bar?
 
 Compared to arrays or maps:
@@ -45,9 +45,9 @@ If path breaks → no result
 From last node, DFS to collect words
 
 Here in this way we collect the respective serachbar options to get the results
-
+--------------------------------------------------------------------------------------------------------------
 Final 2:
-
+---------------------------------------------------------------------------------------------------------------
 this actually builds a better way of detectecting the words or strings even if there is a bias in the spelling 
 
 for this we use a fuzzy logic
@@ -105,9 +105,9 @@ K > 2 → expensive and noisy
 
 Most search bars use K = 1 or 2
 
-
+--------------------------------------------------------------------------------------------------------------
 for final3:
-
+---------------------------------------------------------------------------------------------------------------
 this gives me a recommendation based on the frequency of occuring
 do this helps to get a better understanding how frequent the product is bought
 
