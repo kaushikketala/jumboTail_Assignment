@@ -106,6 +106,11 @@ K > 2 → expensive and noisy
 Most search bars use K = 1 or 2
 
 
+for final3:
 
+this gives me a recommendation based on the frequency of occuring
+do this helps to get a better understanding how frequent the product is bought
+
+we just increment the frequency whenever the product is bought.
 
 The similar thing can be extended to more data because its of time O(N) this actually helps a lot and also with the data retrival fastly.
